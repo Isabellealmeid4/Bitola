@@ -1,5 +1,5 @@
 # Bitola
-Feito no dia 14/06/2025
+Feito no dia 06/06/2025
 
 
 ## Descrição do Projeto
